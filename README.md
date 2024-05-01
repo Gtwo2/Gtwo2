@@ -1,5 +1,5 @@
 ### 👋 안녕하세요.<br>
-저는 <strong>ZET</strong>입니다.<br>할줄 아는건 없습니다.<br><br>
+저는 <strong>G2</strong>입니다.<br>할줄 아는건 없습니다.<br><br>
 🎂<strong>2011. 04. 28</strong><br>
 🏫<strong>남춘천중학교</strong><br>
 <a href="https://youtu.be/QKHXoRl_YLU?si=W0eOzxafGDydaSxK">🎹Play List</a><br>

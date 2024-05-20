@@ -1,7 +1,3 @@
 ### 👋 안녕하세요.<br>
-저는 <strong>G2</strong>입니다.<br>할줄 아는건 없습니다.<br><br>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+저는 <strong>G2</strong>입니다.<br>할줄 아는건 없습니다.<br>
+[![G2's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtwo2&layout=compact&theme=gruvbox&hide_title=true&hide_border=true&title_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
